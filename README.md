@@ -1,4 +1,5 @@
-# ⚡ Ordynex — Intelligent Order Processing & Lifecycle Engine
+# 
+Ordynex — Intelligent Order Processing & Lifecycle Engine
 ### Product Requirement Document (PRD)
 
 ---
