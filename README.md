@@ -1,10 +1,11 @@
-# Order Processing System - Product Requirement Document (PRD)
+# ⚡ Ordynex — Intelligent Order Processing & Lifecycle Engine
+### Product Requirement Document (PRD)
 
 ---
 
 ## 1. Executive Summary & Vision
 
-The **Order Processing System** is an end-to-end e-commerce order fulfillment platform engineered to handle real-time order lifecycle tracking, inventory reservation, payment verification, and fulfillment dispatch. 
+**Ordynex** is an end-to-end e-commerce order orchestration and fulfillment platform engineered to handle real-time order lifecycle tracking, atomic inventory reservation, payment verification, and automated dispatch operations. 
 
 ### Core Objectives
 - **Reliability & Data Consistency:** Prevent overselling through atomic inventory locks and ACID transactions.
@@ -329,7 +330,7 @@ All endpoints are prefixed with `/api/v1` and return standard JSON responses.
 ## 10. Project Directory Structure
 
 ```text
-Order_Processing/
+Ordynex/
 ├── README.md                      # Complete PRD & Documentation
 ├── backend/                       # Python FastAPI Backend
 │   ├── app/
